@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+credentials/
+historico.json
+drive_config.json
